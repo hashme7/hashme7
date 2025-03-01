@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hello, I'm Muhammed Hashim k
+# 👋 Hello, I'm Shamil N K
 
 ### 🚀 Full Stack Developer | MERN & Microservices Enthusiast
 
-[![Email](https://img.shields.io/badge/-Email%20Me-D14836?logo=gmail&logoColor=white)](mailto:hashimkakkaden@gmail.com)
+[![Email](https://img.shields.io/badge/-Email%20Me-D14836?logo=gmail&logoColor=white)](mailto:shamilnk0458@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashim-full-stack-developer)
 
 ---
@@ -16,12 +16,16 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-6A4EB6?logo=grpc&logoColor=white)
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![EJS](https://img.shields.io/badge/-EJS-8A2BE2?logo=ejs&logoColor=white)
 
 #### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -29,6 +33,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
@@ -39,6 +44,7 @@
 - **Backend Optimization**: Efficient data handling with Node.js, Express, and MongoDB.
 - **Frontend Animations**: Interactive UI experiences using React, Redux, and GSAP.
 - **Cloud & DevOps**: CI/CD, containerization, and API testing with Postman.
+- **Templating & UI**: Dynamic content rendering with EJS, HTML, and CSS.
 
 ---
 
