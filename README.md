@@ -5,7 +5,7 @@
 ### 🚀 Full Stack Developer | MERN & Microservices Enthusiast
 
 [![Email](https://img.shields.io/badge/-Email%20Me-D14836?logo=gmail&logoColor=white)](mailto:hashimkakkaden@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/hashim-full-stack-developer)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashim-full-stack-developer)
 
 ---
 
