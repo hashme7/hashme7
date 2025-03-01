@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hello, I'm Shamil N K
+# 👋 Hello, I'm Muhammed Hashim k
 
 ### 🚀 Full Stack Developer | MERN & Microservices Enthusiast
 
-[![Email](https://img.shields.io/badge/-Email%20Me-D14836?logo=gmail&logoColor=white)](mailto:shamilnk0458@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/-Email%20Me-D14836?logo=gmail&logoColor=white)](hashimkakkaden@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/hashim-full-stack-developer)
 
 ---
 
